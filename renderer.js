@@ -725,7 +725,7 @@ async function importBackup() {
 }
 //imports endpoint data from a backup .json file
 function openDocumentation() {
-    window.api.openExternal('https://github.com/mi-lrn/SH13LDME/blob/main/README.md');
+    window.api.openExternal('https://github.com/milrn/SH13LDME/blob/main/README.md');
 }
 //open documentation github page
 async function populateCategories() {
