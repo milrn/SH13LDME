@@ -9,7 +9,7 @@
   },
   "build": {
     "productName": "SH13LDME©",
-    "copyright": "© 2025 mi-lrn & async-wei",
+    "copyright": "© 2025 milrn & async-wei",
     "win": {
       "icon": "assets/logo.png",
       "target": {
@@ -31,7 +31,7 @@
     }
   },
   "keywords": [],
-  "author": "mi-lrn & async-wei",
+  "author": "milrn & async-wei",
   "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
