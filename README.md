@@ -4,13 +4,13 @@
 
 # SH13LDME©
 
-[![LATEST RELEASE | V1](https://img.shields.io/badge/LATEST%20RELEASE-V1-22caa0?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/mi-lrn/SH13LDME/releases)
+[![LATEST RELEASE | V1](https://img.shields.io/badge/LATEST%20RELEASE-V1-22caa0?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/milrn/SH13LDME/releases)
 [![WEBSITE](https://img.shields.io/badge/-WEBSITE-05513D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IArs4c6QAAASlQTFRFAAAAAAAAAAAAABEAABAQAA8PAA0NAA0NABMJABISABcPAB4SAB4SAB4YAB0XABwXAzIlAzEkAzYjAzopAz8tAz4sAkQuAkQxAkUwAkczAkYyAkw2Aks2Ak84Akw1Ak02Ak02BFQ8BFY8BFs/A11BA19CA15CA2FDA2BFA2RHA2dIBG9OBHFPBHJPBHZSBHdSBHlVBHdTBH5YBIRcBIVeBYlfBIhfBIlfBIhfBohfBYxiBY1iBYxjBY1jBY5jBY9kBZJmBZNnBZRoBZVoBZVoBZZpBZZpBZdpBZdqBphqBphrBplrBppsB51uCKBwCaJxCaRyCaRzCqVzC6h1C6h2C6l2DKt3DKx4DK15Da96DrJ8DrN9DrR9DrR+D7Z/D7d/D7eAELiAELmB/sN0BwAAAEZ0Uk5TAAIGDxARExQbHSEqKyssLUxOUVhhY2lpb29xdnd3eHp7iImRkpaam5ylpra3t8PDxMXN2Nri4+Pl5+np7O3u7/f3+/v8/gaH0aYAAAGPSURBVEjH7ZbHUsMwFEUxNfTee+81AUInJBwCGEKPTbf+/yNYRCaWYwuzCgvuxrLeOxqNx3Pvq6goo6pX0unVmt8QbQDQHp1YQGo+ItCa4luplghAfaLQfHdbeCbq9f2V3UfyeFsIWy4PuyqDu2vnNrYz7n1MRwghHNN9T29uzNb5if7i/TmzhZTt2WVAJWLFSjYvPMpni5WYgiy629dvwqe3a7e2rCBJIPf07IhAOc9POSCpIDuAJTSygJ1/5B/568gWkNcheWBLQeLAow55BOIKsgzkdEgOWFKQQcDUISYwpCAtADoEoFlBDICXcOIVwFBdaQ+4CkeugF2f9XUCfIYRnwCdfrs81X0AEzgt8eRhgPtg4gFgpNTHU9LwS2UDHAdYfwME/2gWAA1BcdELwK2fuAGgJzhipgC4ePcC7+cATIaF2IR0/283d6Trj4cHX4cbGR9CCPHhxkSHdkTYl12XlnUplwdVPySyNwEB6Ps5xY1pLzBjRJoVjNGTQv/JmBF9JGlcy2TWm8o5eH0BVzXPw29EpQgAAAAASUVORK5CYII=)](https://www.sh13ld.me/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mi-lrn/SH13LDME/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/milrn/SH13LDME/blob/main/LICENSE)
 
 **An all-in-one security and privacy editor for Windows 10 & 11**
 
-Created by **mi-lrn** and **async-wei**
+Created by **milrn** and **async-wei**
 
 ## Overview
 
@@ -22,7 +22,7 @@ SH13LDME© is an open-source, comprehensive Windows privacy and security configu
 
 #### Did this app help you? Please consider starring this repository!
 
-![GitHub Repo stars](https://img.shields.io/github/stars/mi-lrn/SH13LDME)
+![GitHub Repo stars](https://img.shields.io/github/stars/milrn/SH13LDME)
 
 ## Key Features
 
